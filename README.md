@@ -15,5 +15,5 @@ Here is a preview of the login page layout:
 - Fully responsive layout
 - Mobile-friendly interface
 - Customizable form elements
-- Easy to integrate with backend authentication systems
+- Easy to integrate with backend authentication systems and secure 
 
